@@ -9,17 +9,19 @@
  * the linting exception.
  */
 
-import React from 'react';
+import React from 'react'; /*
 import { FormattedMessage } from 'react-intl';
-import messages from './messages';
+import messages from './messages'; */
+
+import TicTacToe from './../../components/ticTacToe/ticTacToe';
 
 /* eslint-disable react/prefer-stateless-function */
 export default class HomePage extends React.PureComponent {
   render() {
     return (
-      <h1>
-        <FormattedMessage {...messages.header} />
-      </h1>
+      <section>
+        <TicTacToe />
+      </section>
     );
   }
 }
