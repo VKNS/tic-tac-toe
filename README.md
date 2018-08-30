@@ -6,11 +6,11 @@
 
 Установка:
 
-mkdir ticTacToe
-cd ./ticTacToe
-git clone https://github.com/VKNS/tic-tac-toe.git
-cd ./tic-tac-toe/
-yarn (установка зависимостей довольно долго идет)
+mkdir ticTacToe /n
+cd ./ticTacToe /n
+git clone https://github.com/VKNS/tic-tac-toe.git /n 
+cd ./tic-tac-toe/ /n
+yarn (установка зависимостей довольно долго идет)/n
 
 Запуск:
 
