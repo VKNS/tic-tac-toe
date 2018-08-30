@@ -1,18 +1,25 @@
 # tic-tac-toe
 
 Крестики-нолики:
-режим 1 на 1
-режим игры против компьютера
+
+  режим 1 на 1
+  
+  режим игры против компьютера
 
 Установка:
 
-mkdir ticTacToe /n
-cd ./ticTacToe /n
-git clone https://github.com/VKNS/tic-tac-toe.git /n 
-cd ./tic-tac-toe/ /n
-yarn (установка зависимостей довольно долго идет)/n
+  mkdir ticTacToe 
+  
+  cd ./ticTacToe 
+  
+  git clone https://github.com/VKNS/tic-tac-toe.git 
+  
+  cd ./tic-tac-toe/ 
+  
+  yarn (установка зависимостей довольно долго идет)
 
 Запуск:
 
-yarn run start
-переходим http://localhost:3000/
+  yarn run start
+  
+  переходим http://localhost:3000/
