@@ -2,4 +2,10 @@
   height: 60px;
   width: 60px;
   background-color: #12dda0;
+  box-sizing: padding-box;
+  color: #ffffff;
+}
+
+.cell:hover {
+  cursor: pointer;
 }

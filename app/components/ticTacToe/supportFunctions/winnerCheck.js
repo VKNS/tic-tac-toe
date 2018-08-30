@@ -20,7 +20,7 @@ const WinnerCheck = board => {
     }
   }
 
-  if (board.indexOf('k') === -1) {
+  if (board.indexOf('-') === -1) {
     return 'ничья';
   }
 
